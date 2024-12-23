@@ -1,4 +1,3 @@
 [build]
   publish = "." # Specifies the directory to deploy; "." means the root folder
   command = ""  # No build command needed for simple HTML files
-
