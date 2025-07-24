@@ -170,3 +170,5 @@ function trackCurrentLocation() {
         alert("Geolocation is not supported by this browser.");
     }
 }
+
+window.initMap = initMap;
